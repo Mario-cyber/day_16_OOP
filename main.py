@@ -1,9 +1,2 @@
-from turtle import Turtle, Screen
+import prettytable 
 
-jade = Turtle()
-
-my_screen = Screen()
-
-
-
-print(my_screen)
