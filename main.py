@@ -6,4 +6,5 @@ table = PrettyTable()
 table.add_column("Pokemon Name",["Pikachu","Charizard","Lapras"]) 
 table.add_column("Type",["Electric","Fire","Water"]) 
 
+table.align = "l"
 print(table)
